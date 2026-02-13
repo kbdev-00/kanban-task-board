@@ -8,7 +8,7 @@ This project demonstrates modern frontend engineering practices including compon
 
 # 🚀 Live Demo
 
-🔗 Add your deployed Vercel link here
+🔗 [Add your deployed Vercel link here](https://kanban-task-board-cufs.vercel.app/)
 
 ---
 
